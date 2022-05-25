@@ -1,0 +1,10 @@
+[ {
+  "name" : "Docker",
+  "type" : "docker",
+  "url" : "http://localhost.org",
+  "buildOrder" : 1,
+  "buildName" : "allure-report_deploy#13",
+  "buildUrl" : "http://example.org/build#13",
+  "reportName" : "Demo allure report",
+  "reportUrl" : "http://example.org/build#13/AllureReport"
+} ]

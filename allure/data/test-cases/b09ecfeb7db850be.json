@@ -1,0 +1,54 @@
+{
+  "uid" : "b09ecfeb7db850be",
+  "name" : "goHome_13_50_42",
+  "fullName" : "5581_13_53_21#goHome_13_50_42",
+  "historyId" : "496dbe45-8450-11ec-8902-5dfac44b3079",
+  "time" : {
+    "start" : 1643810252313,
+    "stop" : 1643810252313,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "5581_13_53_21"
+  }, {
+    "name" : "host",
+    "value" : "ubuntu-server-docker"
+  }, {
+    "name" : "thread",
+    "value" : "29523-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "UNIX Shell"
+  }, {
+    "name" : "package",
+    "value" : "2022_01_18_14_08"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b09ecfeb7db850be.json",
+  "parameterValues" : [ ]
+}

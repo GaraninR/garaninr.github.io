@@ -1,0 +1,54 @@
+{
+  "uid" : "4b4da9a8cd1d2f2a",
+  "name" : "launchHulu_13_45_58",
+  "fullName" : "5581_13_53_21#launchHulu_13_45_58",
+  "historyId" : "496dbe40-8450-11ec-8902-5dfac44b3079",
+  "time" : {
+    "start" : 1643810252313,
+    "stop" : 1643810252313,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "5581_13_53_21"
+  }, {
+    "name" : "host",
+    "value" : "ubuntu-server-docker"
+  }, {
+    "name" : "thread",
+    "value" : "29523-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "UNIX Shell"
+  }, {
+    "name" : "package",
+    "value" : "2022_02_19_01_22"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b4da9a8cd1d2f2a.json",
+  "parameterValues" : [ ]
+}

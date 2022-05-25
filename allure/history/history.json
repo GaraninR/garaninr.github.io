@@ -1,0 +1,162 @@
+{
+  "496dbe44-8450-11ec-8902-5dfac44b3079" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "db5ba22c0ff81eee",
+      "reportUrl" : "http://example.org/build#13/AllureReport/#testresult/db5ba22c0ff81eee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643810252313,
+        "stop" : 1643810252313,
+        "duration" : 0
+      }
+    } ]
+  },
+  "496dbe45-8450-11ec-8902-5dfac44b3079" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b09ecfeb7db850be",
+      "reportUrl" : "http://example.org/build#13/AllureReport/#testresult/b09ecfeb7db850be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643810252313,
+        "stop" : 1643810252313,
+        "duration" : 0
+      }
+    } ]
+  },
+  "496dbe43-8450-11ec-8902-5dfac44b3079" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ee40c6fd73b5f4f",
+      "reportUrl" : "http://example.org/build#13/AllureReport/#testresult/2ee40c6fd73b5f4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643810252313,
+        "stop" : 1643810252313,
+        "duration" : 0
+      }
+    } ]
+  },
+  "496dbe42-8450-11ec-8902-5dfac44b3079" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23d650401cfa042f",
+      "reportUrl" : "http://example.org/build#13/AllureReport/#testresult/23d650401cfa042f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643810252313,
+        "stop" : 1643810252313,
+        "duration" : 0
+      }
+    } ]
+  },
+  "496dbe46-8450-11ec-8902-5dfac44b3079" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f37890efc14d4536",
+      "reportUrl" : "http://example.org/build#13/AllureReport/#testresult/f37890efc14d4536",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643810252313,
+        "stop" : 1643810252313,
+        "duration" : 0
+      }
+    } ]
+  },
+  "496dbe47-8450-11ec-8902-5dfac44b3079" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "952dd4013292b680",
+      "reportUrl" : "http://example.org/build#13/AllureReport/#testresult/952dd4013292b680",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643810252313,
+        "stop" : 1643810252313,
+        "duration" : 0
+      }
+    } ]
+  },
+  "496dbe41-8450-11ec-8902-5dfac44b3079" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d28c884fdb12e52",
+      "reportUrl" : "http://example.org/build#13/AllureReport/#testresult/5d28c884fdb12e52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643810252313,
+        "stop" : 1643810252313,
+        "duration" : 0
+      }
+    } ]
+  },
+  "496dbe40-8450-11ec-8902-5dfac44b3079" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b4da9a8cd1d2f2a",
+      "reportUrl" : "http://example.org/build#13/AllureReport/#testresult/4b4da9a8cd1d2f2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643810252313,
+        "stop" : 1643810252313,
+        "duration" : 0
+      }
+    } ]
+  }
+}
